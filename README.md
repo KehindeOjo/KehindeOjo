@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Kehinde Ojo
 
-<!--
-**KehindeOjo/KehindeOjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Finance | Data Analysis | Facility Management**  
 
-Here are some ideas to get you started:
+🔹 Passionate about **data-driven decision-making** and **financial insights**.  
+🔹 Transitioning into **Data Analysis**, focusing on **Excel, SQL, Power BI, and Python**.  
+🔹 Skilled in **data cleaning, visualization, and financial reporting**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+🔹 **Data Analysis:** Excel (Pivot Tables, Power Query, VBA), SQL  
+🔹 **Visualization:** Power BI, Tableau  
+🔹 **Finance & Accounting:** Financial Reporting, Budgeting, Reconciliation  
+🔹 **Facility Management:** Operations, Asset Management  
+
+## 📌 Current Focus  
+📊 Enhancing my **data analysis** and **financial modeling** skills.  
+📚 Learning **SQL, Power BI, and Python** for data insights.  
+
+## 💡 Projects  
+🔹 **[Excel Data Analysis Project](#)** - Data cleaning, visualization & insights.  
+🔹 **[Financial Dashboard](#)** - Power BI dashboard for expense tracking.  
+🔹 **[SQL Data Exploration](#)** - Querying large datasets for insights.  
+
+## 📫 Let's Connect  
+📌 LinkedIn: www.linkedin.com/in/kehinde-ojo-86b61b124 
+📩 Email: kehindeojo202@gmail.com   
+
