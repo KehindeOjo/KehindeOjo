@@ -16,11 +16,7 @@
 ## 📌 Current Focus  
 📊 Strengthening my SQL and Power BI expertise for data analytics.  
 📚 Applying Python for financial and business analytics.  
-
-## 💡 Projects  
-🔹 **[Excel Data Analysis Project](#)** - Data cleaning, visualization & insights.  
-🔹 **[Financial Dashboard](#)** - Power BI dashboard for expense tracking.  
-🔹 **[SQL Data Exploration](#)** - Querying large datasets for insights.  
+ 
 
 ## 📫 Let's Connect  
 📌 LinkedIn: www.linkedin.com/in/kehinde-ojo-86b61b124 
