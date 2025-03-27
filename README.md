@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Kehinde Ojo
 
-💡 **Finance | Data Analysis | Facility Management**  
+💡 **Data Analyst | Financial Analysis | Facility Ops**  
 
 🔹 Passionate about **data-driven decision-making** and **financial insights**.  
 🔹 Transitioning into **Data Analysis**, focusing on **Excel, SQL, Power BI, and Python**.  
 🔹 Skilled in **data cleaning, visualization, and financial reporting**.  
 
 ## 🚀 Skills & Tools  
-🔹 **Data Analysis:** Excel (Pivot Tables, Power Query, VBA), SQL  
+🔹 **Data Analysis:** SQL (MySQL, Queries, Joins), Excel (Pivot Tables, Power Query, VBA), SQL  
 🔹 **Visualization:** Power BI, Tableau  
 🔹 **Finance & Accounting:** Financial Reporting, Budgeting, Reconciliation  
 🔹 **Facility Management:** Operations, Asset Management  
 
 ## 📌 Current Focus  
-📊 Enhancing my **data analysis** and **financial modeling** skills.  
-📚 Learning **SQL, Power BI, and Python** for data insights.  
+📊 Strengthening my SQL and Power BI expertise for data analytics.  
+📚 Applying Python for financial and business analytics.  
 
 ## 💡 Projects  
 🔹 **[Excel Data Analysis Project](#)** - Data cleaning, visualization & insights.  
