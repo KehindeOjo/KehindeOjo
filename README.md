@@ -11,6 +11,7 @@
 🔹 **Visualization:** Power BI, Tableau  
 🔹 **Finance & Accounting:** Financial Reporting, Budgeting, Reconciliation  
 🔹 **Facility Management:** Operations, Asset Management  
+🔹 ** Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ## 📌 Current Focus  
 📊 Strengthening my SQL and Power BI expertise for data analytics.  
