@@ -20,7 +20,8 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 - **Excel** – Power Query, Pivot Tables, advanced formulas, and automation (VBA)  
 - **SQL (MySQL)** – writing efficient queries, joins, and building clean data models  
 - **Power BI** – for building interactive, decision-driven dashboards  
-- **Python** – Pandas, NumPy, Seaborn, Matplotlib for deeper, automated analysis  
+- **Python** – Pandas, NumPy, Seaborn, Matplotlib for deeper, automated analysis
+- **QuickBooks** – for financial data tracking, reporting, and reconciliation  
 
 
 ---
