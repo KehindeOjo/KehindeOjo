@@ -36,6 +36,10 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 > Built a data model with **Excel, SQL, and Power BI** to uncover why employees leave.  
 > The result: a visual narrative that highlights key attrition drivers and helps HR teams take proactive steps toward retention.
 
+**💰 Expense Tracker & Budget Analysis**  
+> Developed a Python-based tool to analyze income, expenses, and savings across time and categories.  
+> With **Pandas, Seaborn, and Matplotlib**, I revealed personal finance trends and empowered better budgeting decisions.
+
 > *Each project is built with the end-user in mind—because solving business problems means making insights usable.*
 
 ---
@@ -52,5 +56,5 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 
 I’m open to opportunities and conversations around data, finance, or analytics that make a difference.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kehinde-ojo-86b61b124)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kehindeojo-analyst)  
 📩 kehindeojo202@gmail.com
