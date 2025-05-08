@@ -30,7 +30,8 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 
 **🏘 Estate Financial Transactions Dashboard**  
 > Created to help estate managers make sense of financial flows.  
-> Using **Excel, SQL, and Power BI**, I tracked income, spending patterns, and ROI across multiple properties—delivering clarity in one dashboard.
+> Using **Excel, SQL, and Power BI**, I tracked income, spending patterns, and ROI across multiple properties—delivering clarity in one dashboard.  
+> Reduced financial discrepancies by 25%, ensuring more accurate financial reporting and decision-making.
 
 **🧑‍💼 HR Attrition Analysis**  
 > Built a data model with **Excel, SQL, and Power BI** to uncover why employees leave.  
@@ -39,6 +40,11 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 **💰 Expense Tracker & Budget Analysis**  
 > Developed a Python-based tool to analyze income, expenses, and savings across time and categories.  
 > With **Pandas, Seaborn, and Matplotlib**, I revealed personal finance trends and empowered better budgeting decisions.
+
+**🏗️ Construction Site Inventory Tracker**  
+> Created an **Excel-based tool** to manage and track building materials on construction sites.  
+> The project automates inventory updates and categorizes materials, while a **real-time dashboard** displays key metrics like total inventory, inflow/outflow quantities, and stock status (color-coded alerts: Green, Yellow, Red).  
+> Optimized material use and improved cost visibility by 30%, helping teams monitor stock levels and make data-driven decisions.
 
 > *Each project is built with the end-user in mind—because solving business problems means making insights usable.*
 
