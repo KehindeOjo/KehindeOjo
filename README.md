@@ -2,7 +2,7 @@
 
 **Data & Financial Analyst** | *I use data to solve business challenges, not just visualize them.*
 
-With a solid background in finance and a sharp analytical mindset, I focus on identifying inefficiencies, uncovering trends, and guiding better decisions. I use tools like **Excel, SQL, Power BI, and Python** to answer the question: *"What’s really happening—and what should we do about it?"*
+With a solid background in finance and a sharp analytical mindset, I focus on identifying inefficiencies, uncovering trends, and guiding better decisions. I use tools like **Excel, SQL, Power BI, and Python** to answer the question: *"What’s really happening, and what should we do about it?"*
 
 ---
 
@@ -21,7 +21,8 @@ With a solid background in finance and a sharp analytical mindset, I focus on id
 - **SQL (MySQL)** – writing efficient queries, joins, and building clean data models  
 - **Power BI** – for building interactive, decision-driven dashboards  
 - **Python** – Pandas, NumPy, Seaborn, Matplotlib for deeper, automated analysis
-- **QuickBooks** – for financial data tracking, reporting, and reconciliation  
+- **QuickBooks** – for financial data tracking, reporting, and reconciliation
+- **HTML, CSS, JavaScript** – for portfolio and dashboard development 
 
 
 ---
