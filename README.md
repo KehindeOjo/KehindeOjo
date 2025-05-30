@@ -3,14 +3,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![Kehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=KehindeOjo&show_icons=true&theme=radical&count_private=true)](https://github.com/KehindeOjo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KehindeOjo&layout=compact&theme=radical)](https://github.com/KehindeOjo)
-
----
-
 ## 💼 About Me
 
 With a strong background in finance and a sharp analytical mindset, I specialize in identifying inefficiencies, uncovering trends, and guiding smarter decisions.  
@@ -59,6 +51,14 @@ Developed a **Python** tool to analyze income, spending, and savings by category
 ### 🏗 Construction Site Inventory Tracker  
 Built an **Excel-based** inventory management system with automated tracking and color-coded alerts.  
 ✅ Improved material use and cost visibility by 30%.
+
+---
+
+## 📊 GitHub Stats
+
+[![Kehinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=KehindeOjo&show_icons=true&theme=radical&count_private=true)](https://github.com/KehindeOjo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KehindeOjo&layout=compact&theme=radical)](https://github.com/KehindeOjo)
 
 ---
 
