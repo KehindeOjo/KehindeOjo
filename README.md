@@ -30,6 +30,18 @@ I leverage tools like **Excel, SQL, Power BI, and Python** to answer key busines
 - **QuickBooks** – Financial tracking, reporting, reconciliation  
 - **HTML, CSS, JavaScript** – Web portfolio and data dashboard interfaces  
 
+### 🛠️ Tech Stack & Tools Badges
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white&style=flat-square)  
+![SQL](https://img.shields.io/badge/MySQL-Querying%20&%20Modeling-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black&style=flat-square)  
+![Python](https://img.shields.io/badge/Python-Automation%20%26%20Analysis-3776AB?logo=python&logoColor=white&style=flat-square)  
+![QuickBooks](https://img.shields.io/badge/QuickBooks-Financial%20Tracking-2CA01C?logo=intuit&logoColor=white&style=flat-square)  
+![HTML](https://img.shields.io/badge/HTML-Web%20Structure-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS](https://img.shields.io/badge/CSS-Styling%20&%20Layout-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Website%20Interactions-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white&style=flat-square)
+
 ---
 
 ## 🌟 Highlight Projects
@@ -71,4 +83,3 @@ I'm open to opportunities or collaborations in data, finance, and analytics.
 ---
 
 > “Each project is built with the end-user in mind—because solving business problems means making insights usable.”
-
