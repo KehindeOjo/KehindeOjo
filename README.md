@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kehinde Ojo  
+#  Hi, I'm Kehinde Ojo  
 ### **Data & Financial Analyst**  
 *Bridging Finance, Analytics & AI to Drive Smarter Business Decisions*
 
@@ -26,10 +26,10 @@ I use tools like **Excel, SQL, Power BI, Python, and Jupyter** to answer real bu
 
 ## 🧠 What Drives Me
 
-- 💡 Solving real business challenges with data  
-- 📊 Turning raw numbers into actionable insights  
-- 🧮 Combining financial expertise with analytical precision  
-- 🎯 Communicating insights in ways non-technical teams can act on  
+-  Solving real business challenges with data  
+-  Turning raw numbers into actionable insights  
+-  Combining financial expertise with analytical precision  
+-  Communicating insights in ways non-technical teams can act on  
 
 ---
 
@@ -94,10 +94,10 @@ Created an **Excel-based** system for real-time stock tracking with visual alert
   <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="360"/>
 </a>
 
-- 🌍 [Portfolio Website](https://kehindeojo.netlify.app)  
-- 📧 [kehindeojo202@gmail.com](mailto:kehindeojo202@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kehindeojo-analyst)  
-- 🐙 [GitHub](https://github.com/KehindeOjo)
+ 🌍 [Portfolio Website](https://kehindeojo.netlify.app)  
+ 📧 [kehindeojo202@gmail.com](mailto:kehindeojo202@gmail.com)  
+ 💼 [LinkedIn](https://www.linkedin.com/in/kehindeojo-analyst)  
+
 
 ---
 
