@@ -1,15 +1,17 @@
-# Hi, I'm Kehinde Ojo  
-**Data & Financial Analyst** | *Bridging Finance, Analytics & AI to Drive Smarter Business Decisions*
+# 👋 Hi, I'm Kehinde Ojo  
+### **Data & Financial Analyst**  
+*Bridging Finance, Analytics & AI to Drive Smarter Business Decisions*
 
 ---
 
-<h3>📇 My Virtual Business Card</h3>
-
-<a href="https://kehindeojo.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="360"/>
-</a>
-
-
+## 📌 Table of Contents
+- [About Me](#💼-about-me)
+- [What Drives Me](#🧠-what-drives-me)
+- [Tech Stack & Tools](#⚙️-tech-stack--tools)
+- [Highlight Projects](#🌟-highlight-projects)
+- [GitHub Stats](#📊-github-stats)
+- [Currently Exploring](#🔍-currently-exploring)
+- [Portfolio & Contact](#🌐-portfolio--contact)
 
 ---
 
@@ -86,9 +88,16 @@ Created an **Excel-based** system for real-time stock tracking with visual alert
 
 ## 🌐 Portfolio & Contact
 
-- 🔗 [Portfolio Website](https://kehindeojo.netlify.app)  
-- 📧 kehindeojo202@gmail.com  
+<h3>📇 My Virtual Business Card</h3>
+
+<a href="https://kehindeojo.netlify.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="360"/>
+</a>
+
+- 🌍 [Portfolio Website](https://kehindeojo.netlify.app)  
+- 📧 [kehindeojo202@gmail.com](mailto:kehindeojo202@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kehindeojo-analyst)  
+- 🐙 [GitHub](https://github.com/KehindeOjo)
 
 ---
 
