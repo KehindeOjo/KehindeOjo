@@ -1,5 +1,10 @@
-#  Hi, I'm Kehinde Ojo  
+# Hi, I'm Kehinde Ojo  
 **Data & Financial Analyst** | *Bridging Finance, Analytics & AI to Drive Smarter Business Decisions*
+
+---
+
+## 📇 My Digital Business Card  
+[![Kehinde Ojo Virtual Card](assets/kehinde_card.png)](https://kehindeojo.netlify.app)
 
 ---
 
