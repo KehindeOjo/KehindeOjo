@@ -3,8 +3,13 @@
 
 ---
 
-## 📇 My Digital Business Card  
-[![Kehinde Ojo Virtual Card](assets/kehinde_card.png)](https://kehindeojo.netlify.app)
+### 📇 My Virtual Business Card
+
+[![Kehinde Ojo Business Card](assets/kehinde_card.png)](https://kehindeojo.netlify.app/)
+
+🔗 [Visit My Portfolio](https://kehindeojo.netlify.app)
+📬 kehindeojo202@gmail.com
+
 
 ---
 
