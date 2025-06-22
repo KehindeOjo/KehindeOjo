@@ -6,7 +6,7 @@
 <h3>📇 My Virtual Business Card</h3>
 
 <a href="https://kehindeojo.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="500"/>
+  <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="300"/>
 </a>
 
 
