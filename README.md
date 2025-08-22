@@ -1,26 +1,15 @@
-#  Hi, I'm Kehinde Ojo  
-### **Data & Financial Analyst**  
-*Bridging Finance, Analytics & AI to Drive Smarter Business Decisions*
-
----
-
-## 📌 Table of Contents
-- [About Me](#💼-about-me)
-- [What Drives Me](#🧠-what-drives-me)
-- [Tech Stack & Tools](#⚙️-tech-stack--tools)
-- [Highlight Projects](#🌟-highlight-projects)
-- [GitHub Stats](#📊-github-stats)
-- [Currently Exploring](#🔍-currently-exploring)
-- [Portfolio & Contact](#🌐-portfolio--contact)
+# 👋 Hi, I'm Kehinde Ojo  
+### **Data Analyst | Financial Analyst**  
+*Making numbers and data tell the story behind smarter business decisions*
 
 ---
 
 ## 💼 About Me
 
-With a solid background in finance and a sharp analytical mindset, I transform complex financial data into insights that drive smarter decisions, optimize performance, and guide strategic growth.
+With a background in accounting and a sharp eye for data, I help businesses uncover the insights hidden in their numbers. Whether it's building dashboards, analyzing trends, or automating reports, I turn raw data into strategic clarity.
 
-I use tools like **Excel, SQL, Power BI, Python, and Jupyter** to answer real business questions:  
-**"What’s really happening, and what should we do about it?"**
+I work with tools like Excel, SQL, Power BI, Python, and Jupyter to answer real business questions like:  
+**"_What’s really happening, and what should we do about it_?"**
 
 ---
 
@@ -51,23 +40,23 @@ I use tools like **Excel, SQL, Power BI, Python, and Jupyter** to answer real bu
 
 ### 🌍 Global AI Impact Analysis  
 Explored global AI adoption and its socio-economic influence using **Python and Jupyter Notebooks**, including visual analytics and trend insights.  
-✅ Delivered a comprehensive view of AI’s global footprint—ready for strategic use.
+- Delivered a comprehensive view of AI’s global footprint—ready for strategic use.
 
 ### 🏘 Estate Financial Transactions Dashboard  
 Tracked income, spending patterns, and ROI across multiple properties using **Excel, SQL, and Power BI**.  
-✅ Reduced discrepancies by 25% and improved financial clarity.
+- Reduced discrepancies by 25% and improved financial clarity.
 
 ### 👥 HR Attrition Analysis  
 Uncovered key attrition drivers using a full-stack model in **Excel, SQL, and Power BI**.  
-✅ Helped HR teams take proactive action through clear storytelling.
+- Helped HR teams take proactive action through clear storytelling.
 
 ### 💰 Expense Tracker & Budget Analysis  
 Built a **Python-based** tool for personal finance insights by category and time.  
-✅ Enabled smarter budgeting and savings decisions.
+- Enabled smarter budgeting and savings decisions.
 
 ### 🏗 Construction Inventory Tracker  
 Created an **Excel-based** system for real-time stock tracking with visual alerts.  
-✅ Increased material visibility and reduced waste by 30%.
+- Increased material visibility and reduced waste by 30%.
 
 ---
 
@@ -80,19 +69,13 @@ Created an **Excel-based** system for real-time stock tracking with visual alert
 
 ## 🔍 Currently Exploring
 
-- AI-enhanced forecasting and automation  
-- Full-stack analytics pipelines  
-- Scalable dashboards that deliver decision-ready insights
+- AI-enhanced forecasting and workflow automation  
+- End-to-end analytics pipelines for scalable insights  
+- Dynamic dashboards that deliver decision-ready intelligence
 
 ---
 
 ## 🌐 Portfolio & Contact
-
-<h3>📇 My Virtual Business Card</h3>
-
-<a href="https://kehindeojo.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/KehindeOjo/KehindeOjo/main/kehinde_card.png" alt="Kehinde Ojo Business Card" width="360"/>
-</a>
 
  🌍 [Portfolio Website](https://kehindeojo.netlify.app)  
  📧 [kehindeojo202@gmail.com](mailto:kehindeojo202@gmail.com)  
