@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kehinde Ojo
-### **Data Analyst | Financial & Business Analytics | BI • Process Automation**
+### **Data Analyst | Financial & Business Analytics | BI & Process Automation**
 *Turning financial and operational data into decisions, automation, and measurable business outcomes*
 
 ---
