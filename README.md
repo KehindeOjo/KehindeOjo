@@ -37,29 +37,36 @@ I work with Excel, SQL, Power BI, Python, Google Apps Script, and Jupyter to ans
 
 ## 🌟 Highlight Projects
 
-### 🧾 Automated Invoice Approval Workflow
-Built an end-to-end invoice approval system using **Google Forms, Google Sheets, and Apps Script** with email notifications and dashboard reporting.
+Below is a selection of key projects I’ve delivered, showcasing my work across data analysis, automation, and business intelligence.  
+
+### 📦 Master Inventory Management  
+Built an **Excel + VBA** solution to automate stock tracking and generate real-time analytical reports.  
+- Improved inventory accuracy and streamlined reporting.
+
+### 💼 Payroll Management System  
+Developed an **Excel-based + VBA** payroll solution with Pivot Tables and Charts to automate payslip generation and net pay calculation.  
+- Enhanced payroll efficiency and reduced manual errors.
+
+### 🧾 Automated Invoice Approval Workflow  
+Built an end-to-end invoice approval system using **Google Forms, Google Sheets, and Apps Script** with email notifications and dashboard reporting.  
 - Accelerated approvals and improved financial transparency across operations.
 
-### 🌍 Global AI Impact Analysis
-Explored global AI adoption trends and socio-economic influence using **Python and Jupyter Notebooks**, with visual analytics and strategic insights.
+### 🌍 Global AI Impact Analysis  
+Explored global AI adoption trends and socio-economic influence using **Python and Jupyter Notebooks**, with visual analytics and strategic insights.  
 - Delivered a comprehensive view of AI's global footprint ready for stakeholder use.
 
-### 🏘 Estate Financial Transactions Dashboard
-Tracked income, spending patterns, and ROI across multiple properties using **Excel, SQL, and Power BI**.
+### 🏘 Estate Financial Transactions Dashboard  
+Tracked income, spending patterns, and ROI across multiple properties using **Excel, SQL, and Power BI**.  
 - Reduced financial discrepancies by 25% and improved reporting clarity.
 
-### 👥 HR Attrition Analysis
-Uncovered key attrition drivers using a full analytics approach in **Excel, SQL, and Power BI**.
+### 👥 HR Attrition Analysis  
+Uncovered key attrition drivers using a full analytics approach in **Excel, SQL, and Power BI**.  
 - Helped HR teams take proactive action through structured data storytelling.
 
-### 💹 Profitability & Departmental Cost Analysis
-Analyzed revenue and costs using **Python EDA and Power BI** to support strategic business decisions.
+### 💹 Profitability & Departmental Cost Analysis  
+Analyzed revenue and costs using **Python EDA and Power BI** to support strategic business decisions.  
 - Surfaced cost inefficiencies and supported executive planning with visual insights.
 
-### 🏗 Construction Inventory Tracker
-Created an **Excel-based** system for real-time stock tracking with visual alerts.
-- Increased material visibility and reduced waste by 30%.
 
 ---
 
